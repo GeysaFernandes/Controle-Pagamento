@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>C:\Users\thiag\Desktop\API\API\ControlePagamentoWebApi\ControlePagamentoWebApi\ControlePagamentoWebApi.xml</DocumentationFile>
+    <DocumentationFile>ControlePagamentoWebApi.xml</DocumentationFile>
     <NoWarn>1701;1702;1591</NoWarn>
   </PropertyGroup>
 
